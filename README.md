@@ -1,6 +1,6 @@
 # NewStar CTF 2024
 
-附件存放在本仓库的 Github Release 中，除了出了按照 Week 进行分类的总附件外，按照<strong>方向</strong>进行区分。
+附件存放在本仓库的 Github Release 中，除了按照 Week 进行分类的总附件外，按照<strong>方向</strong>进行区分。
 
 ## 赛题简介 - 按 Week 分类
 
@@ -12,11 +12,11 @@
 
 ## 赛题简介 - 按方向分类
 
-- [Pwn](./category/pwn.md)
-- [Reverse](./category/reverse.md)
-- [Web](./category/web.md)
-- [Crypto](./category/crypto.md)
-- [Misc](./category/misc.md)
+- [Pwn 二进制安全](./category/pwn.md)
+- [Reverse 逆向工程](./category/reverse.md)
+- [Web 网络攻防](./category/web.md)
+- [Crypto 密码学](./category/crypto.md)
+- [Misc 杂项](./category/misc.md)
 
 ## License
 
