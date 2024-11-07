@@ -26,7 +26,7 @@
 
 ### Inverted World
 
-把 Stack 旋转 180°，不就没有 Stack0verf1ow 的烦恼了嘛♡~
+把 Stack 旋转 180°，不就没有 Stack0verf1ow 的烦恼了嘛 ♡~
 
 ### easy fmt
 
@@ -52,11 +52,11 @@ Super 过河拆桥！
 
 ### EZcanary
 
-我开了那么多保护，一定很安全吧~
+我开了那么多保护，一定很安全吧 ~
 
 ### One Last B1te
 
-3，2，1，GOT 1t !
+3, 2, 1, GOT 1t !
 
 ## Week 4
 
@@ -70,7 +70,7 @@ Super 过河拆桥！
 
 ### Sign in
 
-简单签到~
+简单签到 ~
 
 ### MakeHero
 
